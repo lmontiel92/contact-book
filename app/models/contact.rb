@@ -1,5 +1,4 @@
 # app/models/contact.rb
 
-class Contact
+class Contact < ActiveRecord::Base
 end
-
